@@ -1,0 +1,22 @@
+_repo: Tokyo-to-Tijuana--Gabriele-Departing-America_12733
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sills, Steven David Justin
+    gutenberg_agent_id: '1500'
+    url: http://www.gutenberg.org/2009/agents/1500
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12733'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+- GITenberg
+title: 'Tokyo to Tijuana: Gabriele Departing America'
+url: http://www.gutenberg.org/ebooks/12733
